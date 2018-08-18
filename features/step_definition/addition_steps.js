@@ -1,3 +1,5 @@
+   const { Before, Given, When, Then } = require('cucumber')
+
    Given the numbers 2 and 3
 
          Given('the numbers {int} and {int}', function (int, int2) {
