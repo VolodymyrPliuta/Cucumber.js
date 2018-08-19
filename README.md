@@ -13,7 +13,7 @@ It has One scenario with three steps Given, When and Then
 │       └── addition_steps.js # Pure JavaScript is here that makes possible white tests in Gherkin format with .feature extension
 ├── README.md # This file.
 ├── lib #
-│   └── calculator.js # An calculator object with its methods lives here
+│   └── calculator.js # A calculator object with its methods lives here
 ├── package.json # npm package manager file. It's unlikely that you'll need to modify this.
 ├── package-lock.json
 ├── node_modules
