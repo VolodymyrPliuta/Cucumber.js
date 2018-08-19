@@ -9,10 +9,10 @@ Given('the numbers {int} and {int}', function (x, y, callback) {
     callback();
 });
 
-When('they are added together', function () {
+When('they are added together', function (callback) {
     calculator.add();
 });
 
-Then('should the result be {int}', function (expected) {
+Then('should the result be {int}', function (int, callback) {
     assert.equal(calculator.getResult(), expected)
 });
