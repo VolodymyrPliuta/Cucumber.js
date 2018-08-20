@@ -1,7 +1,8 @@
 ![external_image](http://www.nickvallaris.com/wp-content/uploads/2017/02/cucumber-logo-1024x445.jpg)
 ### CUCUMBER.JS
 
-In this project, I set up cucumber.js infrastructure from the ground level without boilerplate to understand better how it works
+In this project, I set up cucumber.js infrastructure from the ground level without boilerplate
+<br/> to understand better how it works
 
 It has One scenario with three steps Given, When and Then
 
